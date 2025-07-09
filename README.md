@@ -16,7 +16,7 @@ React와 Fabric.js를 사용한 프로덕션 레벨 드로잉 템플릿 애플�
 ### 설치
 ```bash
 # 저장소 클론
-git clone <repository-url>
+git clone https://github.com/JohnnyDaddy/web-drawing-ui.git
 cd drawing-ui
 
 # 의존성 설치
